@@ -1,5 +1,3 @@
-# FOR R
-
 dataset = read.csv('Salary_Data.csv')
 
 library('caTools')
